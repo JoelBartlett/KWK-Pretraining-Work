@@ -1,0 +1,44 @@
+
+<!doctpye styles.css>
+{
+  box-sizing: border-box;
+}
+title {
+  font-family: 'Dosis', sans-serif;
+  text-align: center;
+  color: #003366
+  }
+
+h1 {
+  color: #006400;
+  text-sizing
+  text-decoration: underline;
+  font-family: 'Dosis', sans-serif;
+  text-align: center;
+}
+
+p {
+  color: #808080;
+  font-family: 'Dosis', sans-serif;
+  text-align: center;
+}
+h2 {
+  color: #006400;
+  text-decoration: underline;
+  font-family: 'Dosis', sans-serif;
+  text-align: center;
+  border-style: double;
+  border-width: thick;
+  border-color: #808080
+}
+
+img {
+  width: 600px;
+  height: 350px;
+  object-fit: contain;
+  position: relative;
+  top: 50%;
+  padding: 0
+}
+}
+body {background-color: #FFF5EE}
